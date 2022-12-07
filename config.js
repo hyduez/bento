@@ -13,14 +13,14 @@ const CONFIG = {
   
 	// General
 	name: 'Hyduez',
-	openInNewTab: true,
+	openInNewTab: false,
 	twelveHourFormat: false,
-  	title: 'Bento',
+  title: 'Bento',
 
 	// Theme
 	theme: 'bento',
 	imageBackground: false,
-  	imageUrl: './assets/background.jpg', // Set custom background image URL. If the page is served insecurely, you may have issues loading images from pages over https.
+  imageUrl: './assets/background.jpg', // Set custom background image URL. If the page is served insecurely, you may have issues loading images from pages over https.
 
 	// Greetings
 	greetingMorning: 'Good morning!',
@@ -52,8 +52,8 @@ const CONFIG = {
 	hourDarkThemeActive: '18:30',
 	hourDarkThemeInactive: '07:00',
 
-  	// Autochange automatically based on location (sunrise/sunset). Openweathermap API key required.
-  	changeThemeByLocation: false,
+  // Autochange automatically based on location (sunrise/sunset). Openweathermap API key required.
+  changeThemeByLocation: false,
 
   // ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
   // ├┴┐│ │ │  │ │ ││││└─┐
@@ -68,33 +68,33 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
+			name: 'ProtonMail',
 			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			link: 'https://mail.proton.me/',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Instagram',
+			icon: 'instagram',
+			link: 'https://instagram.com/',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'pCloud',
+			icon: 'cloud',
+			link: 'https://my.pcloud.com/',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
+			name: 'DailyDev',
 			icon: 'glasses',
-			link: 'https://reddit.com',
+			link: 'https://app.daily.dev/',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
+			name: 'YouTube',
 			icon: 'youtube',
-			link: 'https://odysee.com/',
+			link: 'https://youtube.com/',
 		},
 	],
 
@@ -170,20 +170,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Twitter',
+					link: 'https://twitter.com/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Notion',
+					link: 'https://notion.so/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'CodeBerg',
+					link: 'https://codeberg.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'IMDB',
+					link: 'https://imdb.com/',
 				},
 			],
 		},

@@ -178,8 +178,8 @@ const CONFIG = {
 					link: 'https://notion.so/',
 				},
 				{
-					name: 'CodeBerg',
-					link: 'https://codeberg.com/',
+					name: 'Mastodon',
+					link: 'https://tilde.zone/',
 				},
 				{
 					name: 'IMDB',

@@ -182,8 +182,8 @@ const CONFIG = {
 					link: 'https://tilde.zone/',
 				},
 				{
-					name: 'IMDB',
-					link: 'https://imdb.com/',
+					name: 'Hashnode',
+					link: 'https://www.hashnode.com/',
 				},
 			],
 		},

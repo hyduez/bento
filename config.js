@@ -12,10 +12,10 @@ const CONFIG = {
 
   
 	// General
-	name: 'Hyduez',
+	name: 'Paulo',
 	openInNewTab: false,
 	twelveHourFormat: false,
-  title: 'Bento',
+  	title: 'Bento',
 
 	// Theme
 	theme: 'bento',

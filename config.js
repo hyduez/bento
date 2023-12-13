@@ -20,7 +20,7 @@ const CONFIG = {
 	// Theme
 	theme: 'bento',
 	imageBackground: false,
-  imageUrl: './assets/background.jpg', // Set custom background image URL. If the page is served insecurely, you may have issues loading images from pages over https.
+        imageUrl: './assets/background.jpg', // Set custom background image URL. If the page is served insecurely, you may have issues loading images from pages over https.
 
 	// Greetings
 	greetingMorning: 'Good morning!',
@@ -32,7 +32,7 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'b45cc158e2fe448eb1232b4b3666dba1', // Write here your API Key
+	weatherKey: '58622998280091770881b7c0323ec204', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -53,7 +53,7 @@ const CONFIG = {
 	hourDarkThemeInactive: '07:00',
 
   // Autochange automatically based on location (sunrise/sunset). Openweathermap API key required.
-  changeThemeByLocation: false,
+  	changeThemeByLocation: true,
 
   // ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
   // ├┴┐│ │ │  │ │ ││││└─┐

@@ -38,8 +38,8 @@ const CONFIG = {
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '-2.203816',
+	defaultLongitude: '-79.897453',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -74,9 +74,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Instagram',
-			icon: 'instagram',
-			link: 'https://instagram.com/',
+			name: 'Reddit',
+			icon: 'reddit',
+			link: 'https://reddit.com/',
 		},
 		{
 			id: '4',
@@ -179,7 +179,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Mastodon',
-					link: 'https://tilde.zone/',
+					link: 'https://fosstodon.org/',
 				},
 				{
 					name: 'Hashnode',

@@ -75,7 +75,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'Reddit',
-			icon: 'reddit',
+			icon: 'book-copy',
 			link: 'https://reddit.com/',
 		},
 		{
@@ -144,24 +144,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'lamp-desk',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Discord',
+					link: 'https://discord.com/app',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'AmbientDesigner',
+					link: 'https://ambientdesigner.com/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Pinterest',
+					link: 'https://www.pinterest.com/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'DeepL',
+					link: 'https://www.deepl.com/translator',
 				},
 			],
 		},
@@ -182,8 +182,8 @@ const CONFIG = {
 					link: 'https://fosstodon.org/',
 				},
 				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com/',
+					name: 'Academia',
+					link: 'https://www.academia.edu/',
 				},
 			],
 		},

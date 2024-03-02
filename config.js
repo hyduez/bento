@@ -19,7 +19,7 @@ const CONFIG = {
 
 	// Theme
 	theme: 'bento',
-	imageBackground: false,
+	imageBackground: true,
         imageUrl: './assets/background.jpg', // Set custom background image URL. If the page is served insecurely, you may have issues loading images from pages over https.
 
 	// Greetings
@@ -152,7 +152,7 @@ const CONFIG = {
 					link: 'https://discord.com/app',
 				},
 				{
-					name: 'AmbientDesigner',
+					name: 'Ambient',
 					link: 'https://ambientdesigner.com/',
 				},
 				{
@@ -171,7 +171,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Twitter',
-					link: 'https://twitter.com/',
+					link: 'https://twitter.com/home',
 				},
 				{
 					name: 'Notion',
